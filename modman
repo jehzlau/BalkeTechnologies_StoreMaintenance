@@ -1,0 +1,8 @@
+app/code/community/BalkeTechnologies/StoreMaintenance app/code/community/BalkeTechnologies/StoreMaintenance
+app/etc/modules/BalkeTechnologies_StoreMaintenance app/etc/modules
+
+# not in production
+# app/design/adminhtml/base/default/template/balketechnologies/storemaintenance app/design/adminhtml/base/default/template/balketechnologies/storemaintenance
+# misc/* misc/
+# skin/frontend/base/default/balketechnologies/storemaintenance skin/frontend/base/default/balketechnologies/storemaintenance
+# skin/frontend/default/default/balketechnologies/storemaintenance skin/frontend/default/default/balketechnologies/storemaintenance
